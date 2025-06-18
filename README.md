@@ -37,12 +37,5 @@ This project analyzes hotel booking data using SQL to uncover trends in guest be
 - Online market segment has the highest booking share.
 - Guests with children tend to pay slightly more per room.
 
-## 📄 Outputs
-- [SQL Queries](sql_queries.sql)
-- [Final PDF Report](insights_report.pdf)
-
-## 📈 Bonus (Optional Visuals)
-- Charts and visualizations in `visualizations/` folder
-
----
+  
 Made with 💻 and SQL | By [Balaji Parimi]
